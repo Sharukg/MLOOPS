@@ -1,10 +1,10 @@
-# Full-Stack Application: Django Backend & React Frontend 🌟
+# 🪟 Glass Identification Prediction System
 
 ### 📌 **Overview**
-This project is a full-stack web application that combines:
-- A **Django backend** for API and business logic.
-- A **React frontend** for an interactive and responsive user interface.
-- **Dockerized deployment** for a consistent and scalable setup.
+This project is a **machine learning-based web application** designed to classify glass types based on their chemical compositions. It consists of:
+- A **Django backend** that processes data, trains the machine learning model, and serves predictions.
+- A **React frontend** providing an intuitive user interface for uploading glass data and viewing predictions.
+- **Dockerized environment** for easy deployment and scalability.
 
 ---
 
